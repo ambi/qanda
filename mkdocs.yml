@@ -1,4 +1,9 @@
 site_name: qanda
-theme: readthedocs
+theme:
+  name: 'material'
+  language: 'ja'
+extra:
+  search:
+    language: 'jp'
 markdown_extensions:
   - codehilite

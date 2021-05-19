@@ -4,7 +4,7 @@
 
 Prerequisite (Python should be installed already):
 ``` shell
-pip install mkdocs pygments
+pip install mkdocs mkdocs-material pygments
 ```
 
 Start the live-reloading docs server locally:
