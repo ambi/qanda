@@ -21,3 +21,9 @@ mkdocs build
 
 ## 2 Deploy gh pages
 
+Deploy to gh pages:
+```
+mkdocs gh-deploy
+```
+
+Finally, we can access this site (`ehttps://XXX.github.io/qand/`).
