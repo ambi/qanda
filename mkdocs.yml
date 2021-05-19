@@ -6,4 +6,15 @@ extra:
   search:
     language: 'jp'
 markdown_extensions:
-  - codehilite
+  - mdx_truly_sane_lists:
+      nested_indent: 2
+  - pymdownx.betterem
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde:
+      subscript: False
+  - toc:
+      permalink: True

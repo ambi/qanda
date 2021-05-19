@@ -4,7 +4,7 @@
 
 Prerequisite (Python should be installed already):
 ``` shell
-pip install mkdocs mkdocs-material pygments
+pip install mkdocs mkdocs-material mdx_truly_sane_lists pygments
 ```
 
 Start the live-reloading docs server locally:
@@ -26,4 +26,4 @@ Deploy to gh pages:
 mkdocs gh-deploy
 ```
 
-Finally, we can access this site (`ehttps://XXX.github.io/qand/`).
+Finally, we can access this site (`https://XXX.github.io/qand/`).
